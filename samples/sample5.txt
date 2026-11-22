@@ -1,0 +1,14 @@
+Sprint: Sprint 5
+Reporting Period: November 17 – November 21, 2026
+
+Test Execution Summary:
+- Number of test cases executed: 410
+- Test cases passed: 318
+- Test cases failed: 92
+- Test cases blocked: 47
+
+Failure highlights:
+- Multiple failures across several modules
+- Several defects are marked critical
+
+Notes: Stakeholder review scheduled for Monday.

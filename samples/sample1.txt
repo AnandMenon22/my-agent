@@ -1,0 +1,24 @@
+Project: Phoenix CRM v3.2
+Sprint: Sprint 14
+Reporting Period: November 10 – November 21, 2026
+Reported By: Priya Nair (QA Lead)
+
+Test Execution Summary:
+- Total test cases planned: 320
+- Number of test cases executed: 298
+- Test cases passed: 271
+- Test cases failed: 27
+- Test cases blocked: 15
+- Test cases not yet run: 7
+
+Failure highlights:
+- 12 failures in the Payment Gateway module (critical)
+- 9 failures in User Profile update flow (medium)
+- 6 failures in Notification service (low)
+
+Defects raised this sprint: 19
+Defects resolved this sprint: 14
+Defects carried over: 5
+
+Overall test execution progress: 93.1%
+Pass rate among executed: 90.9%

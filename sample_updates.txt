@@ -1,0 +1,45 @@
+Sprint 23 QA Execution Summary — Week ending 21 Nov 2026
+Project: Customer Portal v2.4 | QA Lead: Meera | Reported to: Stakeholders
+
+--- TEST EXECUTION TOTALS ---
+Total test cases planned: 120
+Test cases executed: 98
+Test cases passed: 81
+Test cases failed: 12
+Test cases blocked: 5
+Not yet executed: 22
+Pass rate: 83%
+
+--- PASSED MODULES ---
+Login and authentication flow: 25 of 25 passed (Priya)
+User profile and settings: 18 of 18 passed (Priya)
+Dashboard and reporting: 15 of 15 passed (Arjun)
+Search and filter: 12 of 12 passed (Arjun)
+Notifications module: 11 of 11 passed (Ravi)
+
+--- FAILED TEST CASES ---
+TC-401: Payment gateway timeout on transactions above 10000 — Severity: Critical — Owner: Ravi — no fix date confirmed yet
+TC-402: PDF export corrupted for reports with more than 50 rows — Severity: High — Owner: Ravi — fix expected by 25 Nov 2026
+TC-403 to TC-410: 8 test cases in Admin panel bulk-edit feature failing with 500 error — Severity: Medium — Owner: Priya — under investigation, no date yet
+TC-411: MFA SMS code not delivered to +91 numbers — Severity: High — Owner: Infra team (Dev Ops) — no fix date
+TC-412: Session timeout warning not displayed in Safari 17 — Severity: Low — no owner assigned yet
+
+--- BLOCKED TEST CASES ---
+TC-501 to TC-505: 5 test cases blocked — UAT environment has been down since 19 Nov 2026 — Owner: DevOps team — no restoration date given
+
+--- DEFECT SUMMARY ---
+New defects raised this sprint: 12
+Defects closed from last sprint: 4
+Defects still open from last sprint: 8
+Total open defects: 20
+Critical defects open: 1 (TC-401 payment gateway)
+
+--- REGRESSION STATUS ---
+Regression suite: not started — depends on UAT environment being restored
+
+--- NEXT SPRINT PLAN ---
+Complete the remaining 22 unexecuted test cases once UAT environment is restored
+Start regression suite — target completion by 27 Nov 2026
+Target overall pass rate: 90% or above before client demo
+Client demo scheduled: 28 Nov 2026 — QA sign-off required before that date
+Decision needed: should go-live date move from 1 Dec to 10 Dec given open critical defect TC-401?

@@ -1,0 +1,25 @@
+Project: Orion HR Portal
+Sprint: Sprint 7
+Reporting Period: November 3 – November 14, 2026
+Reported By: Marcus Delgado (Senior QA Engineer)
+
+Test Execution Summary:
+- Total test cases planned: 180
+- Number of test cases executed: 180
+- Test cases passed: 174
+- Test cases failed: 6
+- Test cases blocked: 0
+- Test cases not yet run: 0
+
+Failure highlights:
+- 4 failures in Leave Request Approval workflow (high priority)
+- 2 failures in Employee Onboarding checklist (medium priority)
+
+Defects raised this sprint: 6
+Defects resolved this sprint: 6
+Defects carried over: 0
+
+Overall test execution progress: 100%
+Pass rate among executed: 96.7%
+
+Notes: All planned test cases completed ahead of schedule. Regression suite green. Ready for UAT sign-off.

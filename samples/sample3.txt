@@ -1,0 +1,22 @@
+projct: retial app somthing v2 i think
+sprint 9?? or maybe 10 not sure
+dates: nov week 3
+
+qa guy: tommy (tommy k)
+
+ok so we ran tests this week
+- planned was like 250 cases total
+- Number of test cases executed: 189 (couldnt finish rest becoz env was down monday and tuesday)
+- passed: 143
+- failedd: 46
+- blocked a lot: 32 i think maybe more
+- rest didnt run
+
+failures - mostly chekout page, some wierd thing with the cart not saving, also login sso brok again same issue as last time we thought was fixed
+defects: raised 31, closed maybe 12? need to double check with dev team
+carry over: a bunch
+
+pass rate: around 75% ish
+execution: 75.6%
+
+NOTE: environment instability is making numbers look worse than actual quality. devs say fix by friday hopefully

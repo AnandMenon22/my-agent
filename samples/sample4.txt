@@ -1,0 +1,10 @@
+Project: Blaze Analytics Dashboard
+Sprint: Sprint 2
+Reported By: Aisha Fernandez
+
+Number of test cases executed: 22
+Passed: 22
+Failed: 0
+Blocked: 0
+
+Pass rate: 100%
